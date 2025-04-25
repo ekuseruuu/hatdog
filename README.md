@@ -10,12 +10,7 @@
     <!-- Pin Image Section -->
 <img src="https://i.pinimg.com/236x/4f/24/82/4f24821a7606d491ea4e96329d1e55a0.jpg" alt="Pin"/>
 
-    <!-- Pin Description Section -->
-    <div class="pin-description">
-        <h2>Infographics</h2>
-        <p>wa nako kasabot unsa</p>
-    </div>
-</div>
+
 
 <!-- Footer Section -->
 <div class="pin-footer">
