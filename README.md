@@ -1,44 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Infographics</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        header {
-            background-color: #333;
-            color: white;
-            text-align: center;
-            padding: 20px 0;
-        }
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-        }
-        .pin-image {
-            width: 100%;
-            height: auto;
-        }
-        .pin-description {
-            margin-top: 20px;
-            font-size: 18px;
-            line-height: 1.6;
-        }
-        .pin-footer {
-            text-align: center;
-            margin-top: 40px;
-            font-size: 14px;
-            color: #888;
-        }
-    </style>
+
 </head>
 <body>
 
